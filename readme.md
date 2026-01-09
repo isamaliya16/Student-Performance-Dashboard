@@ -4,7 +4,7 @@ content = r"""
 # 📘 Student Performance Dashboard – Academic & Behavioral Insights
 
 ### 🔗 Live Dashboard: 
-#### https://app.powerbi.com/view?r=eyJrIjoiOWU4MjllOGMtODFjMS00MDJjLWFiZWMtZWJjZTA4ZDg3OTczIiwidCI6ImNmZDY4M2U1LTc5YWItNDc3Yy1hODE4LWNkNTRmZjIxMmE4ZiJ9
+#### https://app.powerbi.com/view?r=eyJrIjoiMjlhZTM0MGItOTYxNy00MjhmLTg3MzItZTQ0NTUzYzJkZmEzIiwidCI6ImNmZDY4M2U1LTc5YWItNDc3Yy1hODE4LWNkNTRmZjIxMmE4ZiJ9 
 --- 
 
 ## 🔎 Overview
@@ -52,10 +52,10 @@ This dashboard provides a unified view of student academic and behavioral perfor
 
 ## 🖼 Dashboard Screenshots
 
-![Screenshot1](images/Dashboard/01.%20main.png)  
-![Screenshot2](images/Dashboard/02.%20profile.png)  
-![Screenshot3](images/Dashboard/03.png)
-
+![Screenshot1](images/Dashboard/images1.png)  
+![Screenshot2](images/Dashboard/images2.png)  
+![Screenshot3](images/Dashboard/images3.png)
+![Screenshot3](images/Dashboard/images4.png)
 ---
 
 ## 💡 Insights Generated
@@ -106,10 +106,12 @@ This dashboard provides a unified view of student academic and behavioral perfor
 
 ---
 
-## 📱 Social Links
+## 🤝 Connect With Me
 
-- LinkedIn: your-linkedin-url  
-- GitHub: your-github-url
+If you found this project useful or would like to collaborate:
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-isamaliya-686533312/
+- 📧 **Email:** aisamaliya8@gmail.com
 
 ---
 
