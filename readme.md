@@ -4,7 +4,7 @@ content = r"""
 # 📘 Student Performance Dashboard – Academic & Behavioral Insights
 
 ### 🔗 Live Dashboard: 
-#### https://app.powerbi.com/view?r=eyJrIjoiMjlhZTM0MGItOTYxNy00MjhmLTg3MzItZTQ0NTUzYzJkZmEzIiwidCI6ImNmZDY4M2U1LTc5YWItNDc3Yy1hODE4LWNkNTRmZjIxMmE4ZiJ9 
+#### https://app.powerbi.com/view?r=eyJrIjoiYWQxYjdiM2EtNDIzMi00NjZlLTkzZjYtM2QwNDU0ZTk0NjFkIiwidCI6ImNmZDY4M2U1LTc5YWItNDc3Yy1hODE4LWNkNTRmZjIxMmE4ZiJ9 
 --- 
 
 ## 🔎 Overview
